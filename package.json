@@ -1,0 +1,16 @@
+{
+	"name": "graphql-intro",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"devStart": "nodemon server.js"
+	},
+	"author": "monesha",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-graphql": "^0.12.0",
+		"graphql": "^15.5.0"
+	}
+}
